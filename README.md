@@ -21,7 +21,15 @@ This project involves analyzing solar radiation and weather data from three diff
 
 ## Project Structure
 
-├── .streamlit │ └── config.toml ├── .vscode │ └── settings.json ├── .github │ └── workflows │ ├── unittests.yml ├── .gitignore ├── requirements.txt ├── README.md ├── notebooks │ ├── init.py │ ├── EDA.ipynb │ └── README.md ├── tests │ ├── init.py ├── app │ ├── init.py │ ├── main.py # main Streamlit application script │ ├── utils.py # utility functions for data processing and visualization └── scripts ├── init.py └── README.md
+├── .streamlit │ └── config.toml 
+├── .vscode │ └── settings.json 
+├── .github │ └── workflows │ ├── unittests.yml 
+├── .gitignore 
+├── requirements.txt 
+├── README.md 
+├── notebooks │ ├── init.py │ ├── EDA.ipynb │ └── README.md 
+├── tests │ ├── init.py 
+├── app │ ├── init.py │ ├── main.py # main Streamlit application script │ ├── utils.py # utility functions for data processing and visualization └── scripts ├── init.py └── README.md
 
 
 ---
